@@ -1,0 +1,10 @@
+#app-navigation {
+	background-color: #081821;
+	border-right: 1px solid #081821;
+}
+#app-navigation li > a {
+	color: #fff;
+}
+.settings-button {
+	background-color: #081821;
+}

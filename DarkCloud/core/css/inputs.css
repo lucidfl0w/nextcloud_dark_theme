@@ -1,0 +1,5 @@
+input[type="submit"], input[type="button"],
+button, .button,
+#quota, select, .pager li a {
+	color: #FFF;
+}

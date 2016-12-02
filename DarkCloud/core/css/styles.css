@@ -1,0 +1,13 @@
+body {
+	background-color: #081821;
+}
+
+.searchbox input[type="search"]:focus,
+.searchbox input[type="search"]:active,
+.searchbox input[type="search"]:valid {
+	background-color: #081821;
+}
+
+#controls {
+	background-color: rgba(8, 24, 33, .95);
+}

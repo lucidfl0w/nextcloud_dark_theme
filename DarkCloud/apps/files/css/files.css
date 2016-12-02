@@ -1,0 +1,25 @@
+#filestable tbody tr {
+	background-color: #081821;
+}
+#filestable tbody tr:hover,
+#filestable tbody tr:focus,
+#filestable tbody .name:focus,
+#filestable tbody tr:active,
+#filestable tbody tr.highlighted,
+#filestable tbody tr.highlighted .name:focus,
+#filestable tbody tr.selected,
+#filestable tbody tr.searchresult,
+table tr.mouseOver td {
+	background-color: #132A40;
+}
+table thead th {
+	background-color: #081821;
+}
+/*IDK which of the last 3 are requied*/
+tbody a { color:#fff; } 
+.mask {
+background-color: #fff;
+}
+#filestable tbody tr {
+	background-color: #fff;
+}
