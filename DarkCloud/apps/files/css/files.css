@@ -23,3 +23,7 @@ background-color: #fff;
 #filestable tbody tr { /* File list background*/
 	background-color: #081821;
 }
+table th,
+table td { /* Border between file list items */
+	border-bottom: 1px solid #081821;
+}
