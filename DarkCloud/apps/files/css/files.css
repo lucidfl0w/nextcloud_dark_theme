@@ -20,6 +20,6 @@ tbody a { color:#fff; }
 .mask {
 background-color: #fff;
 }
-#filestable tbody tr {
-	background-color: #fff;
+#filestable tbody tr { /* File list background*/
+	background-color: #081821;
 }
